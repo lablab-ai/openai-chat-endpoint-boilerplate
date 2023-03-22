@@ -14,7 +14,7 @@ Before you can use this boilerplate, you'll need to set up a few things:
 1. Clone this repository:
    ```
    git clone https://github.com/lablab-ai/openai-chat-endpoint-boilerplate.git
-   cd gpt-3.5-turbo-chatbot-boilerplate
+   cd openai-chat-endpoint-boilerplate
    ```
 
 2. Create a `.env` file in the root directory of the project and add your OpenAI API key:
